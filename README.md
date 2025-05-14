@@ -115,8 +115,7 @@ PAGE 2
 
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/7bbcd6ee-0659-48b1-ac8f-054b2cc5538a)
-
+![alt text](image.png)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
